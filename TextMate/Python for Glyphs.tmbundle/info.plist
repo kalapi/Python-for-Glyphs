@@ -9,8 +9,10 @@
 	<key>description</key>
 	<string>Python snippets for Glyphs.app coding.
 http://glyphsapp.com/
-https://github.com/mekkablue/Python-for-Glyphs
-</string>
+Original: https://github.com/mekkablue/Python-for-Glyphs
+Universal Thirst fork: https://github.com/kalapi/Python-for-Glyphs
+
+Note: For info regarding snippets created by Universal Thirst contact kalapi at universalthirst dot com</string>
 	<key>name</key>
 	<string>Python for Glyphs</string>
 	<key>uuid</key>

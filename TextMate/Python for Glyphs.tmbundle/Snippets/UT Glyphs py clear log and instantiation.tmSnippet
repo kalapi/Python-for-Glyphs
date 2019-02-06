@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Glyphs.clearLog()
+
+$0 = Glyphs.font</string>
+	<key>name</key>
+	<string>UT Glyphs py clear log and instantiation</string>
+	<key>tabTrigger</key>
+	<string>gsbs</string>
+	<key>uuid</key>
+	<string>985DE1E7-46CF-43A8-A435-D6B54EA7C774</string>
+</dict>
+</plist>
